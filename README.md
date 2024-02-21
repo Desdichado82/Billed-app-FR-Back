@@ -42,7 +42,7 @@ npm install
 ### Lancer l'API :
 
 ```
-npm run run:dev
+employee@test.tld
 ```
 
 ### Accéder à l'API :
